@@ -10,7 +10,7 @@ const Mainbanner: React.FC = () => {
         <img src={mainpic1} alt="starbucks-rewards-banner" />
       </div>
 
-      <div className="grid-item-2 lg:col-span-2  flex flex-col items-start ml-10">
+      <div className="grid-item-2 lg:col-span-2  flex flex-col items-start lg:ml-10 mx-5">
         <img src={mainpic2} alt="" />
         <div className="description text-left flex flex-col ">
           <h1 className="text-black text-3xl mt-10 mb-5">
