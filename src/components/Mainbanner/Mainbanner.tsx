@@ -7,7 +7,7 @@ const Mainbanner: React.FC = () => {
   return (
     <div className="grid grid-cols-1 lg:grid-cols-5 gap-0">
       <div className="grid-item-1 bg-gray-400 lg:col-span-2 
-       bg-[url('C:\Dev\Projects\starbucksclone\src\assets\images\mainimage1.jpg')]" style={{backgroundAttachment: 'fixed'}}>
+       bg-[url('assets/images/mainimage1.jpg')]" style={{backgroundAttachment: 'fixed'}}>
         <img src={mainpic1} alt="" className="lg:hidden"/> 
       </div>
 
