@@ -4,7 +4,7 @@ import picture1 from "../../assets/images/picture1.jpg"
 
 const Card1 = () => {
   return (
-    <div className="grid grid-cols-1 grid-rows-3">
+    <div className="grid grid-cols-1 grid-rows-3 ">
     <div className="image-ctn row-span-2">
         <img src={picture1} alt="" />
     </div>
