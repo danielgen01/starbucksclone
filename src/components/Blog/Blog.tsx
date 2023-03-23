@@ -6,7 +6,7 @@ import Card4 from "../Blogcards/Card4"
 
 const Blog: React.FC = () => {
   return (
-    <div className="grid grid-cols-1 lg:grid-cols-2 gap-5 mt-10 ">
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mt-10 ">
       <div className="grid-item-1 shadow-md ">
         <Card1 />
       </div>
