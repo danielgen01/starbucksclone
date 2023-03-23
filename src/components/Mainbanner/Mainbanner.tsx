@@ -6,8 +6,8 @@ import Blog from "../Blog/Blog"
 const Mainbanner: React.FC = () => {
   return (
     <div className="grid grid-cols-1 lg:grid-cols-3 h-screen gap-0">
-      <div className="grid-item-1 bg-gray-400 lg:col-span-1 bg-[url('C:\Dev\Projects\starbucksclone\src\assets\images\mainimage1.jpg')]">
-        <img src={mainpic1} alt="starbucks-rewards-banner" />
+      <div className="grid-item-1 bg-gray-400 lg:col-span-1
+       bg-[url('C:\Dev\Projects\starbucksclone\src\assets\images\mainimage1.jpg')] bg-no-repeat">
       </div>
 
       <div className="grid-item-2 lg:col-span-2  flex flex-col items-start lg:ml-10 mx-5">

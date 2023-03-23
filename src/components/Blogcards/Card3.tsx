@@ -8,7 +8,7 @@ const Card3 = () => {
     <div className="image-ctn row-span-2">
         <img src={picture3} alt="" />
     </div>
-    <div className="card-content-descirption row-span-1">
+    <div className="card-content-descirption row-span-1 m-5">
         <h1>blablbalbalbalba</h1>
     </div>
     </div>
